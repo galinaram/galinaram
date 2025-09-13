@@ -42,8 +42,8 @@
 
 ### 📊 Активность и статистика
 
-[![Статистика Галины](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=default)](https://github.com/your-username)
-[![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide=html,css)](https://github.com/your-username)
+[![Статистика Галины](https://github-readme-stats.vercel.app/api?username=galinaram&show_icons=true&hide_title=true&hide=issues&count_private=true&theme=default)](https://github.com/galinaram)
+[![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=galinaram&layout=compact&theme=default&hide=html,css)](https://github.com/galinaram)
 
 *Примечание: эта статистика обновляется автоматически.*
 
@@ -53,10 +53,9 @@
 
 Я открыта для предложений о работе и сотрудничестве!
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_name)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge)](https://hh.ru/resume/your-resume-id)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/galusha_ram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galina.ramodina@gmail.com)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge)]([https://hh.ru/resume/your-resume-id](https://hh.ru/resume/8f8dfc08ff0f4bce040039ed1f426d4d387765?from=share_ios))
 
 ---
 
