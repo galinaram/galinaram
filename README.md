@@ -96,7 +96,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/galusha_ram)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galina.ramodina@gmail.com)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge)](https://hh.ru/resume/8f8dfc08ff0f4bce040039ed1f426d4d387765))
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge)](https://hh.ru/resume/8f8dfc08ff0f4bce040039ed1f426d4d387765)
 
 ---
 
